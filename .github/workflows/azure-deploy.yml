@@ -1,5 +1,5 @@
 yaml
-name: Azure Deployment
+name:Azure-Deployment
 
 on:
   push:
